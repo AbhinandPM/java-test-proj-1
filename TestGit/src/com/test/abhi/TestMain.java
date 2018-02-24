@@ -4,7 +4,7 @@ public class TestMain {
 
 	public static void main(String[] args) {
 		// changes done 
-		System.out.println("MOdified output");
+		System.out.println("Modified output from remote");
 	}
 
 }
